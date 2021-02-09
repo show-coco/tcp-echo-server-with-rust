@@ -11,7 +11,8 @@
 # 始め方
 
 ```bash
-$ cargo run
+$ cd client && cargo run
+$ cd server && cargo run
 ```
 
 # 参考
