@@ -1,5 +1,5 @@
 [package]
-name = "tcp-echo-server-with-rust"
+name = "tcp-echo-server"
 version = "0.1.0"
 authors = ["Sho Sakai <show75@ezweb.ne.jp>"]
 edition = "2018"
