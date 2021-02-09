@@ -13,3 +13,7 @@
 ```bash
 $ cargo run
 ```
+
+# 参考
+
+- [知ったかぶりをしていたソケット通信の基礎を改めて学んでみる](https://qiita.com/megadreams14/items/32a3eed4661e55419e1c)
